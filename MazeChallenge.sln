@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeChallenge.Plugins", "MazeChallenge.Plugins.csproj", "{60ED1442-92FF-8750-37F6-7E2244FD8510}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeChallenge", "MazeChallenge.csproj", "{337DCC55-E341-0CDA-8BE3-70AA6FF4C300}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeChallenge.Editor.Plugins", "MazeChallenge.Editor.Plugins.csproj", "{C06C6260-9A32-59EF-77F4-2B7953F963C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60ED1442-92FF-8750-37F6-7E2244FD8510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60ED1442-92FF-8750-37F6-7E2244FD8510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60ED1442-92FF-8750-37F6-7E2244FD8510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60ED1442-92FF-8750-37F6-7E2244FD8510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{337DCC55-E341-0CDA-8BE3-70AA6FF4C300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{337DCC55-E341-0CDA-8BE3-70AA6FF4C300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{337DCC55-E341-0CDA-8BE3-70AA6FF4C300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{337DCC55-E341-0CDA-8BE3-70AA6FF4C300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C06C6260-9A32-59EF-77F4-2B7953F963C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C06C6260-9A32-59EF-77F4-2B7953F963C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C06C6260-9A32-59EF-77F4-2B7953F963C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C06C6260-9A32-59EF-77F4-2B7953F963C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
